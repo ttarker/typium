@@ -17,11 +17,12 @@ from setuptools import setup
 
 setup(
     name='typium',
-    version='0.0.1',
+    version='0.0.1.2',
     packages=['typium'],
     url='https://github.com/ttarker/typium',
     license='Apache-2.0',
     author='Artem Popov',
     author_email='mr.tarker@yandex.ru',
-    description='Description will be soon'
+    description='Description will be soon',
+    long_description='Description will be soon'
 )
