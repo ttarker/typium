@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OSX
 #
 .DS_Store
@@ -57,6 +58,8 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+=======
+>>>>>>> 5a0e6e1e44cd9d385d905a21047ab5044dc74939
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
